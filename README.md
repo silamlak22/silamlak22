@@ -2,24 +2,25 @@
 <h3 align="center">🚀 On a journey to build, learn, and innovate.</h3>
 
 
-### 🌱 **Currently Learning:**  
+### 🌱 Currently Learning:
 - I'm 4th year Software Engineering student 
 - Deep diving into **React** and **Flutter**  
 
-### 👯 **Open to:**  
+### 👯 Open to:  
 - Internships  
 - Collaborative projects  
 
-### 🤝 **Looking For:**  
+### 🤝 Looking For: 
 - Mentorship and guidance in **web development** and **mobile app development**  
 - Opportunities to grow and contribute  
 
-### 💬 **Let's Talk About:**  
-- **React** – Crafting seamless web applications  
-- **Flutter** – Building stunning cross-platform mobile apps  
+### 💬 Let's Talk About:  
+- React – Crafting seamless web applications  
+- Flutter – Building stunning cross-platform mobile apps
+- Graphics design – Building brands, Logo's for clients and other's like UI/UX designs.
 
-### 📫 **How to Reach Me:**  
-- **Email:** [silamlak22desalegn@gmail.com](mailto:silamlak22desalegn@gmail.com)  
+### 📫 How to Reach Me: 
+- Email: [silamlak22desalegn@gmail.com](mailto:silamlak22desalegn@gmail.com)  
 
 
 ---
