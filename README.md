@@ -17,7 +17,7 @@
 ### 💬 Let's Talk About:  
 - React – Crafting seamless web applications  
 - Flutter – Building stunning cross-platform mobile apps
-- Graphics design – Building brands, Logo's for clients and other's like UI/UX designs.
+- Graphics design – Building brands, Logo, UI/UX designs and related designs.
 
 ### 📫 How to Reach Me: 
 - Email: [silamlak22desalegn@gmail.com](mailto:silamlak22desalegn@gmail.com)  
