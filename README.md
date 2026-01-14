@@ -3,7 +3,7 @@
 
 
 ### 🌱 Currently Learning:
-- I'm 4th year Software Engineering student 
+- I'm 5th year Software Engineering student 
 - Deep diving into React and Flutter  
 
 ### 👯 Open to:  
