@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 Professional Summary:
-I am a Software Engineer, Full-Stack Web Developer, Flutter Mobile App Developer, and Creative Graphics Designer with hands-on experience delivering modern digital solutions across multiple industries. Having worked with companies like **Michot IT Solution**, **Trust Technology**, **Dallol Tech**, and various freelance clients, I’ve contributed to scalable SaaS platforms, business management systems, and professional brand identities. My expertise spans the entire SDLC—from system analysis and UI/UX design to backend architecture, database optimization, deployment, and maintenance.
+I am a Software Engineer, Full-Stack Web Developer, Flutter Mobile App Developer, and Creative Graphics Designer with hands-on experience delivering modern digital solutions across multiple industries. Having worked with companies like **Michot IT Solution**, **Trust Technology**, **Dallol Tech**, and various freelance clients, I’ve contributed to scalable SaaS platforms, business management systems, and professional brand identities. My expertise spans the entire SDLC from system analysis and UI/UX design to backend architecture, database optimization, deployment, and maintenance.
 
 ### 🌱 Current Status:
 - 🎓 **Graduate / Professional:** BSc in Software Engineering, full-fledged industry practitioner.
@@ -20,9 +20,9 @@ I am a Software Engineer, Full-Stack Web Developer, Flutter Mobile App Developer
 - Collaborative open-source projects and networking with fellow engineers.
 
 ### 💬 Let's Talk About:
-- **Full-Stack Web Development** – Crafting robust applications using React.js, Next.js, Node.js, Express.js, and Laravel.
+- **Full-Stack Web Development** - Crafting robust applications using React.js, Next.js, Node.js, Express.js, and Laravel.
 - **Flutter** – Building high-performance, stunning cross-platform mobile apps.
-- **UI/UX & Graphics Design** – Designing brand identities, logos, and intuitive user experiences.
+- **UI/UX & Graphics Design** - Designing brand identities, logos, and intuitive user experiences.
 
 ### 📫 How to Reach Me:
 - Email: [silamlak22desalegn@gmail.com](mailto:silamlak22desalegn@gmail.com)  
