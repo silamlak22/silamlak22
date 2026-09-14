@@ -11,7 +11,7 @@
 I am a Software Engineer, Full-Stack Web Developer, Flutter Mobile App Developer, and Creative Graphics Designer with hands-on experience delivering modern digital solutions across multiple industries. Having worked with companies like **Michot IT Solution**, **Trust Technology**, **Dallol Tech**, and various freelance clients, I’ve contributed to scalable SaaS platforms, business management systems, and professional brand identities. My expertise spans the entire SDLC—from system analysis and UI/UX design to backend architecture, database optimization, deployment, and maintenance.
 
 ### 🌱 Current Status:
-- 🎓 **Graduate / Professional:** Transitioned from a 5th-year Software Engineering student into a full-fledged industry practitioner.
+- 🎓 **Graduate / Professional:** BSc in Software Engineering, full-fledged industry practitioner.
 - 🚀 **Currently Focusing On:** Building advanced enterprise multi-tenant SaaS platforms, mastering Next.js, and scaling high-performance full-stack applications.
 - 👯 **Open to:** Full-time software engineering roles, impactful collaborations, and innovative projects.
 
